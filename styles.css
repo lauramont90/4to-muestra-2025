@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #244371;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+  text-align: center;
+}
+
+.carousel {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.slide {
+  width: 100%;
+  display: none;
+}
+
+.slide.active {
+  display: block;
+}
+
+header {
+  background: #fff;
+  color: #244371;
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;       /* Podés cambiar tamaño */
+  display: block;
+  margin: 0 auto 10px auto; /* Centrado */
+}
+
+body{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+section{
+    color: #fff;
+}
